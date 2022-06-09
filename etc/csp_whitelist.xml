@@ -19,6 +19,8 @@
         <policy id="img-src">
             <values>
                 <value id="securitymetrics" type="host">*.securitymetrics.com</value>
+                <value id="google-com" type="host">*.google.com</value>
+                <value id="google-uk" type="host">*.google.co.uk</value>
             </values>
         </policy>
         <policy id="connect-src">
